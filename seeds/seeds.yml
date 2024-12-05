@@ -1,0 +1,8 @@
+version: 2
+
+seeds:
+  - name: zipcode
+    config:
+      column_types:
+        zipcode: varchar
+        area: varchar
